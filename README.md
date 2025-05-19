@@ -6,7 +6,8 @@ A simple and versatile Java library for converting between various units of meas
 
 * Length conversion (`LengthConverter`, `LengthUnit`)
 * Area conversion (`AreaConverter`, `AreaUnit`)
-
+* Temperature conversion (`TemperatureConverter`, `TemperatureUnit`)
+* Volume conversion (`VolumeConverter`, `VolumeUnit`)
 ## Unit Conversions
 
 ```java
